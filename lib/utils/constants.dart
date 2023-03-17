@@ -1,0 +1,23 @@
+import 'package:flutter/material.dart';
+
+const Color kDangerColor = Color(0xFFEB3F9A);
+const Color kSuccessColor = Color(0xFFD4FE88);
+const Color kTextColor = Colors.grey;
+const double kIconSize = 18;
+const double kGiantHeight = 90.0;
+const double kLargeHeight = 50.0;
+const double kMediumHeight = 25.0;
+const double kSmallHeight = 10.0;
+const double kTinyHeight = 5.0;
+const double kGiantWidth = 90.0;
+const double kLargeWidth = 50.0;
+const double kMediumWidth = 25.0;
+const double kSmallWidth = 10.0;
+const double kTinyPadding = 2.0;
+const double kSmallPadding = 5.0;
+const double kMediumPadding = 10.0;
+const double kLargePadding = 15.0;
+const double kGiantPadding = 40.0;
+const double kLargeRadius = 30.0;
+const double kMediumRadius = 15.0;
+const double kSmallRadius = 5.0;
